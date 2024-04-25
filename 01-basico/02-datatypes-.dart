@@ -71,5 +71,5 @@ main() {
 
   capitan.addAll(ironman);
 
-  print(capitan.values);
+  print(capitan);
 }
